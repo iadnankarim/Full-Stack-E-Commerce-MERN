@@ -6,6 +6,8 @@ It’s built using **React.js**, **Node.js**, **Express.js**, **MongoDB**, and *
 
 ---
 
+**🔗 Admin Panel:** [https://full-stack-e-commerce-web-applicati-eight.vercel.app/](https://full-stack-e-commerce-web-applicati-eight.vercel.app/)
+
 ## 🚀 Features
 
 ### 🧑‍💻 User Side
@@ -84,3 +86,4 @@ ADMIN_PASSWORD=your_admin_password
 - Secure **JWT-based authentication system** for users and admins.
 - Passwords are **hashed using bcrypt** for enhanced security.
 - **Admin access** is protected through **environment variables**.
+
